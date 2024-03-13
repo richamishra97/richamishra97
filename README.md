@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Richa Mishra</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center"></h3>
 <img align="right" alt="Coding" width="400" src="https://digitalcreativemind.com/wp-content/uploads/2021/06/Analytics_amp_Data_Science.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=richamishra97&label=Profile%20views&color=0e75b6&style=flat" alt="richamishra97" /> </p>
